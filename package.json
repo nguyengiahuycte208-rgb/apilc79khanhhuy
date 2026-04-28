@@ -4,7 +4,7 @@
   "type": "module",
   "main": "lc79.js",
   "scripts": {
-    "start": "node lc79.js"
+    "start": "node lc.js"
   },
   "dependencies": {
     "fastify": "^4.26.0",
